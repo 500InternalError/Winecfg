@@ -1,0 +1,14 @@
+REGEDIT4
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]
+"Lucida Sans Unicode"="PingFang SC.ttc"
+"Microsoft Sans Serif"="PingFang SC.ttc"
+"Microsoft YaHei"="PingFang SC.ttc"
+"微软雅黑"="PingFang SC.ttc"
+"MS Sans Serif"="PingFang SC.ttc"
+"Tahoma"="PingFang SC.ttc" 
+"Tahoma Bold"="PingFang SC.ttc"
+"SimSun"="PingFang SC.ttc"
+"Arial"="PingFang SC.ttc"
+"Arial Black"="PingFang SC.ttc"
+"宋体"="PingFang SC.ttc"
+"新細明體"="PingFang SC.ttc"
